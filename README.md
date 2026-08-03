@@ -9,7 +9,7 @@ This project uses parcel-level data from the **City of Calgary Open Data Portal*
 - **interpretation** (what actually matters?).
 
 The core finding:  
-**Property value is primarily driven by location and nearby market context, not just property characteristics.** :contentReference[oaicite:0]{index=0}
+**Property value is primarily driven by location and nearby market context, not just property characteristics.*
 
 ## Data
 
@@ -41,7 +41,7 @@ Key features:
 | Gradient Boosting | ~0.73 |
 | Random Forest | ~0.69 |
 
-👉 KNN performs best → supports idea that **valuation is a local spatial problem**. :contentReference[oaicite:2]{index=2}  
+👉 KNN performs best → supports idea that **valuation is a local spatial problem**.
 
 ## Key Insights
 
